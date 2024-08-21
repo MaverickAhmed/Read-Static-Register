@@ -1,6 +1,6 @@
 
   # Read Static Register
-  
+  Repository created to Debug the 384 bits into HEX codes. 
 ## Getting started
 
 1. Build your extension by updating the Python files for your needs
