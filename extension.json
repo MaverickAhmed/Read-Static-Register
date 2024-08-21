@@ -1,0 +1,13 @@
+{
+  "name": "Read Static Register",
+  "apiVersion": "1.0.0",
+  "author": "Muhammad Ahmed Raza",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "Read Static Register": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
